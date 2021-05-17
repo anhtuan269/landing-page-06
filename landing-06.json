@@ -1,0 +1,564 @@
+{
+  "logo": [
+    {
+      "id": 1,
+      "type": "black",
+      "url": "/image/black-logo.png",
+      "link": "/"
+    },
+    {
+      "id": 2,
+      "type": "white",
+      "url": "/image/white-logo.png",
+      "link": "/"
+    }
+  ],
+  "button": [
+    {
+      "id": 1,
+      "type": "up",
+      "text": " Sign up",
+      "background": "blue"
+    },
+    {
+      "id": 2,
+      "type": "in",
+      "text": " Log in",
+      "background": "white"
+    },
+    {
+      "id": 3,
+      "type": "free",
+      "text": " Sign up for free",
+      "background": "blue"
+    },
+    {
+      "id": 4,
+      "type": "now",
+      "text": " Sign up now",
+      "background": "blue"
+    }
+  ],
+  "select": [
+    {
+      "id": 1,
+      "text": "EN",
+      "text_2": "VN"
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "type": "menu",
+      "link": "school",
+      "icon": "/image/school.svg",
+      "text": "school"
+    },
+    {
+      "id": 2,
+      "type": "menu",
+      "link": "work",
+      "icon": "/image/pen.svg",
+      "text": "work"
+    },
+    {
+      "id": 3,
+      "type": "menu",
+      "link": "/",
+      "icon": "/image/Sofa.svg",
+      "text": "Home"
+    },
+    {
+      "id": 4,
+      "type": "menu",
+      "link": "learning apps",
+      "icon": "/image/mobile.svg",
+      "text": "Learning apps"
+    },
+    {
+      "id": 5,
+      "type": "menu",
+      "link": "study",
+      "icon": "/image/School.svg",
+      "text": "Self study"
+    },
+    {
+      "id": 6,
+      "type": "menu",
+      "link": "news",
+      "icon": "/image/blog.svg",
+      "text": "News",
+      "span": 5
+    }
+  ],
+  "heading": [
+    {
+      "id": 1,
+      "type": "hero",
+      "span": "Make",
+      "title": " learning fun!",
+      "description": "Any subject, in any language, on any device, for all ages!"
+    },
+    {
+      "id": 2,
+      "span": "",
+      "type": "game",
+      "title": "Do you have a game code?",
+      "description": "Let’s play for a while!"
+    },
+    {
+      "span": "",
+      "id": 3,
+      "type": "footer",
+      "title": "Ready for make learning fun!  ",
+      "description": ""
+    },
+    {
+      "span": "",
+      "id": 4,
+      "type": "create",
+      "title": "Create",
+      "description": "It only takes minutes to create a learning game or trivia quiz on any topic, in any language."
+    },
+    {
+      "span": "",
+      "id": 5,
+      "type": "share",
+      "title": "Host or share",
+      "description": "Host a live game with questions on a big screen or share a game with remote players."
+    },
+    {
+      "span": "",
+      "id": 6,
+      "type": "play",
+      "title": "Play",
+      "description": "Game on! Join a kahoot with a PIN provided by the host and answer questions on your device."
+    }
+  ],
+  "app": [
+    {
+      "id": 1,
+      "type": "hero",
+      "url": "/image/store.png"
+    },
+    {
+      "id": 2,
+      "type": "hero",
+      "url": "/image/google.png"
+    },
+    {
+      "id": 3,
+      "type": "footer",
+      "url": "/image/store.png"
+    },
+    {
+      "id": 4,
+      "type": "footer",
+      "url": "/image/google.png"
+    },
+    {
+      "id": 5,
+      "type": "footer",
+      "url": "/image/app.png"
+    }
+  ],
+  "special_heading": [
+    {
+      "id": 1,
+      "type": "who",
+      "title": "Who is Kurtis for?"
+    },
+    {
+      "id": 2,
+      "type": "Amazing",
+      "title": "Amazing things are happening"
+    },
+    {
+      "id": 3,
+      "type": "work",
+      "title": "How does Kurtis work?"
+    },
+    {
+      "id": 4,
+      "type": "custom",
+      "title": "Our best customers"
+    }
+  ],
+  "feature_card": [
+    {
+      "id": 1,
+      "icon": "/image/book.png",
+      "type": "school",
+      "title": "At School",
+      "description": "Engaging group and distance learning for teachers and students.",
+      "link": "Learn more"
+    },
+    {
+      "id": 2,
+      "type": "work",
+      "icon": "/image/tele.png",
+      "title": "At work",
+      "description": "For training, e-learning, interactive presentations and more.",
+      "link": "Learn more"
+    },
+    {
+      "id": 3,
+      "icon": "/image/char.png",
+      "type": "home",
+      "title": "At home",
+      "description": "Apps and games for family fun or home study.",
+      "link": "Learn more"
+    },
+    {
+      "id": 4,
+      "type": "apps",
+      "icon": "/image/phone.png",
+      "title": "Learning apps",
+      "description": "Engage kids with the Kahoot! family of learning apps",
+      "link": "Learn more"
+    }
+  ],
+  "feature_slide": [
+    {
+      "id": 1,
+      "text":"white",
+      "url": "/image/slide-1.png",
+      "title": "Kurtis Classroom",
+      "description": "The next generation of corporate learning.",
+      "link": "learn more"
+    },
+    {
+      "id": 2,
+      "text":"white",
+      "url": "/image/slide-2.png",
+      "title": "Kurtis Classroom",
+      "description": "The next generation of corporate learning.",
+      "link": "learn more"
+    },
+    {
+      "id": 3,
+      "text":"black",
+      "new": "new",
+      "url": "/image/slide-3.png",
+      "title": "Premium+ for schools",
+      "description": "Create and teach interactive lessons students will love!",
+      "link": "learn more"
+    },
+    {
+      "id": 4,
+      "new": "new",
+      "text":"white",
+      "url": "/image/slide-4.png",
+      "title": "Integration with Microsoft Teams",
+      "description": "Make remote work better with our powerful integration.",
+      "link": "learn more"
+    },
+    {
+      "id": 5,
+      "text":"black",
+      "new": "new",
+      "url": "/image/slide-5.png",
+      "title": "Join the kurtis of week",
+      "description": "In cooperation with Quizzes Educate About Implicit Bias & Inclusion",
+      "link": "Join now!"
+    }
+  ],
+  "image": [
+    {
+      "id": 1,
+      "url": "/image/feature-2.png",
+      "type": "create"
+    },
+    {
+      "id": 2,
+      "url": "/image/feature-3.png",
+      "type": "share"
+    },
+    {
+      "id": 3,
+      "type": "play",
+      "url": "/image/feature.png"
+    }
+  ],
+  "testimonial_slide": [
+    {
+      "id": 1,
+      "shape": "/image/shape.png",
+      "avatar": "/image/Avatar.png",
+      "review": "I love these games!",
+      "title": "Martha | Norwegian Air",
+      "description": "Recusandae sunt voluptate repellat velit dolorem eos nostrum cupiditate. Labore porro cupiditate reiciendis enim neque. Modi eos autem expedita voluptatibus dignissimos repellat. ",
+      "span": "Sit et aut minus quod vitae. Aut occaecati cupiditate neque dolore amet beatae quasi aliquam.",
+      "footer": "/image/image4.svg"
+    },
+    {
+      "id": 2,
+      "shape": "/image/shape.png",
+      "avatar": "/image/Avatar.png",
+      "review": "I love these games!",
+      "title": "Martha | Norwegian Air",
+      "description": "Recusandae sunt voluptate repellat velit dolorem eos nostrum cupiditate. Labore porro cupiditate reiciendis enim neque. Modi eos autem expedita voluptatibus dignissimos repellat. ",
+      "span": "Sit et aut minus quod vitae. Aut occaecati cupiditate neque dolore amet beatae quasi aliquam.",
+      "footer": "/image/image4.svg"
+    },
+    {
+      "id": 3,
+      "shape": "/image/shape.png",
+      "avatar": "/image/Avatar.png",
+      "review": "I love these games!",
+      "title": "Martha | Norwegian Air",
+      "description": "Recusandae sunt voluptate repellat velit dolorem eos nostrum cupiditate. Labore porro cupiditate reiciendis enim neque. Modi eos autem expedita voluptatibus dignissimos repellat. ",
+      "span": "Sit et aut minus quod vitae. Aut occaecati cupiditate neque dolore amet beatae quasi aliquam.",
+      "footer": "/image/image4.svg"
+    },
+    {
+      "id": 4,
+      "shape": "/image/shape.png",
+      "avatar": "/image/Avatar.png",
+      "review": "I love these games!",
+      "title": "Martha | Norwegian Air",
+      "description": "Recusandae sunt voluptate repellat velit dolorem eos nostrum cupiditate. Labore porro cupiditate reiciendis enim neque. Modi eos autem expedita voluptatibus dignissimos repellat. ",
+      "span": "Sit et aut minus quod vitae. Aut occaecati cupiditate neque dolore amet beatae quasi aliquam.",
+      "footer": "/image/image4.svg"
+    },
+    {
+      "id": 5,
+      "shape": "/image/shape.png",
+      "avatar": "/image/Avatar.png",
+      "review": "I love these games!",
+      "title": "Martha | Norwegian Air",
+      "description": "Recusandae sunt voluptate repellat velit dolorem eos nostrum cupiditate. Labore porro cupiditate reiciendis enim neque. Modi eos autem expedita voluptatibus dignissimos repellat. ",
+      "span": "Sit et aut minus quod vitae. Aut occaecati cupiditate neque dolore amet beatae quasi aliquam.",
+      "footer": "/image/image4.svg"
+    }
+
+  ],
+  "statical": [
+    {
+      "id": 1,
+      "title": "More than 50% of US teachers use Kurtis",
+      "color":"blue"
+    },
+    {
+      "id": 2,
+      "title": "Players in more than 200 countries",
+      "color":"green"
+    },
+    {
+      "id": 3,
+      "title": "MOver 30 million public games available",
+      "color":"red"
+
+    },
+    {
+      "id": 4,
+      "title": "97% of the Fortune 500 use Kurtis",
+      "color":"yellow"
+
+    }
+  ],
+  "social": [
+    {
+      "id": 1,
+      "url": "/image/in.svg"
+    },
+    {
+      "id": 2,
+      "url": "/image/face.svg"
+    },
+    {
+      "id": 3,
+      "url": "/image/insta.svg"
+    },
+    {
+      "id": 4,
+      "url": "/image/tiwtter.svg"
+    },
+    {
+      "id": 5,
+      "url": "/image/tiktok.svg"
+    }
+  ],
+  "copy": [
+    {
+      "id": 1,
+      "text": "Copyright @ 2020, Kurtis All rights reserved."
+    }
+  ],
+  "footer": [
+    {
+      "id": 1,
+      "type": "about",
+      "text": "about"
+    },
+    {
+      "id": 2,
+      "type": "Solutions",
+      "text": "Solutions"
+    },
+    {
+      "id": 3,
+      "type": "Resources",
+      "text": "Resources"
+    },
+    {
+      "id": 4,
+      "type": "Terms",
+      "text": "Terms and conditions"
+    }
+  ],
+  "footer_text": [
+    {
+      "id": 1,
+      "type": "about",
+      "text": "Company",
+      "link": "/"
+    },
+    {
+      "id": 2,
+      "type": "about",
+      "text": "Leadership",
+      "link": "/"
+    },
+    {
+      "id": 3,
+      "type": "about",
+      "text": "Jobs - HIRING!",
+      "link": "/"
+    },
+    {
+      "id": 4,
+      "type": "about",
+      "text": "Pricing",
+      "link": "/"
+    },
+    {
+      "id": 5,
+      "type": "about",
+      "text": "Press",
+      "link": "/"
+    },
+    {
+      "id": 6,
+      "type": "about",
+      "text": "Investors",
+      "link": "/"
+    },
+    {
+      "id": 7,
+      "type": "about",
+      "text": "Company",
+      "link": "about"
+    },
+    {
+      "id": 8,
+      "type": "Solutions",
+      "text": "At School",
+      "link": "/"
+    },
+    {
+      "id": 9,
+      "type": "Solutions",
+      "text": "At Work",
+      "link": "/"
+    },
+    {
+      "id": 10,
+      "type": "Solutions",
+      "text": "At Home",
+      "link": "/"
+    },
+    {
+      "id": 11,
+      "type": "Resources",
+      "text": "Study with Kurtis",
+      "link": "/"
+    },
+    {
+      "id": 12,
+      "type": "Resources",
+      "text": "Blog",
+      "link": "/"
+    },
+    {
+      "id": 13,
+      "type": "Resources",
+      "text": "Kurtis Certified",
+      "link": "/"
+    },
+    {
+      "id": 14,
+      "type": "Resources",
+      "text": "Help Center",
+      "link": "/"
+    },
+    {
+      "id": 15,
+      "type": "Resources",
+      "text": "Library",
+      "link": "/"
+    },
+    {
+      "id": 16,
+      "type": "Resources",
+      "text": "Shop",
+      "link": "/"
+    },
+    {
+      "id": 17,
+      "type": "Resources",
+      "text": "Safety center",
+      "link": "/"
+    },
+    {
+      "id": 18,
+      "type": "Terms",
+      "text": "Terms and Conditions",
+      "link": "/"
+    },
+    {
+      "id": 19,
+      "type": "Terms",
+      "text": "Privacy Policy",
+      "link": "/"
+    },
+    {
+      "id": 20,
+      "type": "Terms",
+      "text": "US Privacy Laws",
+      "link": "/"
+    },
+    {
+      "id": 21,
+      "type": "Terms",
+      "text": "Children’s Privacy Policy",
+      "link": "/"
+    },
+    {
+      "id": 22,
+      "type": "Terms",
+      "text": "Inclusion and Accessibility policy",
+      "link": "/"
+    }
+  ],
+  "footer_image": [
+    {
+      "id": 1,
+      "url": "/image/micro.png"
+    },
+    {
+      "id": 2,
+      "url": "/image/google.png"
+    }
+  ],
+  "game_center": [
+    {
+      "id": 1,
+      "placeholder": "Write the code here",
+      "url": "/image/Arrow.svg",
+      "try": "Or try with 1234",
+      "more": "Still more? ",
+      "take": "Take a look to our features games"
+    }
+  ]
+}
