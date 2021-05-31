@@ -53,9 +53,6 @@ export default {
         return 'opacity-0 translate-x-2/4'
       }
     }
-  },
-  created() {
-    console.log(this.moblie_menu)
   }
 
 }

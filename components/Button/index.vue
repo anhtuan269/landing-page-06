@@ -25,7 +25,7 @@ export default {
   computed: {
     backgroundColor() {
       if (this.background === 'white') {
-        return 'bg-white text-gray-01 hover:bg-yellow-01 duration-500 ease-linear '
+        return 'bg-white text-gray-01 hover:bg-yellow-01 duration-500 ease-linear'
       } else {
         return 'bg-blue-01 text-white hover:bg-yellow-01 duration-500 ease-linear'
       }

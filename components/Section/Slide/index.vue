@@ -1,5 +1,5 @@
 <template>
-  <div class="feature_slide max-w-400 mx-auto mb-20 md:max-w-2xl">
+  <div class="feature_slide max-w-400 mx-auto mb-20 md:max-w-2xl ">
     <Title
       v-for="(item, index) in title"
       :key="index"

@@ -27,7 +27,7 @@ export default {
             if(this.section ==='hero') {
                 return ' text-42 text-black-01 leading-l-50  mb-10 xl:text-74 xl:leading-l-100'
             } else if( this.section ==='footer') {
-                return 'text-42 text-black-01 leading-l-50  mb-10 xl:text-74 xl:leading-l-100'
+                return 'text-42 text-black-01 leading-l-50  mb-10 xl:text-74 xl:leading-l-100 '
             }
             else {
                 return 'text-28 text-black-01 mb-2 text-36 leading-l-44'
